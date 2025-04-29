@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![Illustration of combining compling and cognitive science](/images/comp(1).png
+[Illustration of combining compling and cognitive science](/images/comp(1).png{: .align-right width="300px"}
 
 🎓 I’m currently studying Computational Linguistics in a Professional Retraining Program at the National Research University Higher School of Economics (HSE) in Moscow.
 
