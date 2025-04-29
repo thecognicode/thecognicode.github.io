@@ -10,7 +10,8 @@ redirect_from:
 
 
 
-![Illustration of combining compling](/images/comp.png{: .align-right width="300px"}
+![Illustration of combining compiling](/images/comp.png){: .align-right style="width: 300px;"}
+
 
 🎓 I’m currently studying Computational Linguistics in a Professional Retraining Program at the National Research University Higher School of Economics (HSE) in Moscow.
 
