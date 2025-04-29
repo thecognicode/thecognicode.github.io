@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Rasa-based bilingual chatbot for English and Russian language interaction"
+excerpt: "This chatbot, built with Rasa, helps users practice English and Russian by guiding them to build correct sentences and improve their understanding of word order in both languages. <br/><img src='/images/laptop(1).png'>"
 collection: portfolio
 ---
 
