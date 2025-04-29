@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-![Illustration of combining compling and cognitive science](/images/comp(1).png {: .align-right width="300px"}
+![Illustration of combining compling and cognitive science](/images/comp(1).png
+
 🎓 I’m currently studying Computational Linguistics in a Professional Retraining Program at the National Research University Higher School of Economics (HSE) in Moscow.
 
 🧠 My research interests lie at the intersection of linguistics and artificial intelligence, with a focus on syntactic structures, word order in English and Russian, and building educational NLP tools using conversational AI.
