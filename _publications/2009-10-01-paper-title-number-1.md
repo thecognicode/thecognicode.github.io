@@ -10,4 +10,4 @@ slidesurl: 'https://www.academia.edu/128705592/%D0%A7%D0%B0%D1%81%D1%82%D0%BE%D1
 paperurl: 'https://moluch.ru/archive/565/123930/'
 citation: 'Kenzhebek, G. A. Frequency of different word orders in Russian and English: syntactic analysis and linguistic aspects / G. A. Kenzhebek. - Text : direct // Young Scientist. - 2025. - № 14 (565). - p. 215-219. - URL: https://moluch.ru/archive/565/123930/ (date of reference: 29.04.2025).'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
