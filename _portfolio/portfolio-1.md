@@ -1,6 +1,6 @@
 ---
 title: "Rasa-based bilingual chatbot for English and Russian language interaction"
-excerpt: "This chatbot, built with Rasa, helps users practice English and Russian by guiding them to build correct sentences and improve their understanding of word order in both languages. <br/><img src='/images/laptop.png' style='width: 300px; height: auto; display: block; margin-left: auto; margin-right: auto; margin-top: 20px;'>"
+excerpt: "This chatbot, built with Rasa, helps users practice English and Russian by giving them words to translate. It provides gentle corrections and encourages consistent vocabulary learning at your own pace.. <br/><img src='/images/laptop.png' style='width: 300px; height: auto; display: block; margin-left: auto; margin-right: auto; margin-top: 20px;'>"
 
 collection: portfolio
 ---
