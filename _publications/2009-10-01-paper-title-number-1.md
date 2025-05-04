@@ -10,4 +10,9 @@ slidesurl: 'https://www.academia.edu/128705592/%D0%A7%D0%B0%D1%81%D1%82%D0%BE%D1
 paperurl: 'https://moluch.ru/archive/565/123930/'
 citation: 'Kenzhebek, G. A. Frequency of different word orders in Russian and English: syntactic analysis and linguistic aspects / G. A. Kenzhebek. - Text : direct // Young Scientist. - 2025. - № 14 (565). - p. 215-219. - URL: https://moluch.ru/archive/565/123930/ (date of reference: 29.04.2025).'
 ---
+Understanding how word order works in different languages can reveal a lot about how we structure thoughts, highlight information, and communicate meaning. In this project, I explored how Russian and English handle word order differently — and what those differences tell us about each language's grammar and use.
+English tends to stick to a fixed Subject–Verb–Object (SVO) structure, while Russian allows for much more flexibility. In Russian, you might move parts of a sentence around to highlight what's new or important, or to match the rhythm of speech. That freedom, however, still follows certain syntactic and pragmatic rules — and that’s what I wanted to understand better.
+
+By combining linguistic theory with computational analysis, this research sheds light on how structure and meaning work together in both languages. It’s especially relevant for anyone interested in comparative linguistics, translation, or language teaching. It also shows how NLP tools can support traditional linguistic research and help analyze patterns at scale.
+
 
