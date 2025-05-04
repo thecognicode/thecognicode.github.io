@@ -20,7 +20,9 @@ redirect_from:
 🤖 I’m currently working on a research project that involves building a conversational AI using Rasa, designed to help users learn and practice word order in English and Russian through interactive dialogue. This combines linguistic analysis with NLP tools and user-centered design.
 
 🌍 With a background in translation studies, computational linguistics, and participation in United Nations projects related to GIS and cartography, I am particularly interested in interdisciplinary approaches that integrate linguistic theory, technological applications, and educational practice.
-Selected experience
+
+## Selected experience
+
 I have published a paper in the Molodoy Ucheny (Young Scientist) academic journal, available at moluch.ru.
 
 ## 📜 Rule-Based Linguistic Analysis with Python
