@@ -23,7 +23,7 @@ redirect_from:
 
 ## Selected experience
 
-I have published a paper in the Molodoy Ucheny (Young Scientist) academic journal, available at moluch.ru.
+I have published a paper [Molodoy Ucheny](https://moluch.ru/archive/565/123930/) in the Molodoy Ucheny (Young Scientist) academic journal, available at moluch.ru.
 
 ## 📜 Rule-Based Linguistic Analysis with Python
 
