@@ -5,4 +5,5 @@ excerpt: "This chatbot, built with Rasa, helps users practice English and Russia
 collection: portfolio
 ---
 
-I created a bilingual chatbot using the Rasa framework to help users practice English and Russian sentence structure. The bot guides users in building grammatically correct sentences by offering feedback on word order—one of the trickiest aspects for language learners. It’s designed as an interactive tool to make learning more intuitive and engaging, especially for those struggling with syntax in either language. No machine translation—just real-time dialogue and smart suggestions based on rule-based NLP and linguistic analysis. The code for this project can be found [here](https://github.com/thecognicode/Rasa-EN-RU-chatbot).
+I created this bot to make practicing English-to-Russian vocabulary easier and more encouraging for learners at any level. The idea is simple: the bot gives you an English word, and you try to translate it into Russian. If you get it right, it lets you know and moves on. If not, it gently corrects you and gives you a chance to learn from the mistake. My goal was to create a tool that helps people build their vocabulary, stay motivated, and practice regularly—without stress or pressure.
+The code for this project can be found [here](https://github.com/thecognicode/Rasa-EN-RU-chatbot).
