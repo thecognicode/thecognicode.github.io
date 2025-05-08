@@ -5,4 +5,4 @@ excerpt: "This chatbot, built with Rasa, helps users practice English and Russia
 collection: portfolio
 ---
 I created this bot to make practicing English-to-Russian vocabulary easier and more encouraging for learners at any level. The idea is simple: the bot gives you an English word, and you try to translate it into Russian. If you get it right, it lets you know and moves on. If not, it gently corrects you and gives you a chance to learn from the mistake. My goal was to create a tool that helps people build their vocabulary, stay motivated, and practice regularly—without stress or pressure.
-The code for this project can be found [here](https://github.com/thecognicode/Rasa-EN-RU-chatbot).
+The code for this project can be found [here](https://github.com/thecognicode/Rasa_EN_RU_bot).
