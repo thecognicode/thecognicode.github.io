@@ -4,6 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'In this project, I studied the frequency and variation of word order in Russian and English by combining linguistic theory with computational analysis. I focused on short declarative sentences (up to ten words) and analyzed over 100 examples from each language using Python-based tools like spaCy and pymorphy2. My goal was to understand how different word orders function syntactically and what linguistic factors - such as theme and rheme, emphasis, or information structure - might influence them. While English generally follows a fixed Subject-Verb-Object (SVO) order, Russian allows for greater flexibility, which often reflects pragmatic nuances. This research highlights how syntax interacts with meaning and context, offering insights for comparative linguistics, translation, and language teaching.
+
 As part of this project in the future, I plan to develop an interactive map-based interface where users can click on individual words or short sentences to view the regions in which these expressions are most frequently used. This web-based tool will visualize the frequency of word order patterns and syntactic constructions across different areas, providing both linguistic insights and an accessible way to explore regional variation in language use.'
 date: 2025-04-07
 venue: 'Young Scientist (Molodoy Ucheny)'
